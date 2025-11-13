@@ -8,14 +8,6 @@
         "order": 6
     },
     {
-        "family_name": "BIZ Prepaid",
-        "family_code": "ae2707e6-2996-45f8-944a-8a391e956f28",
-        "is_enterprise": true,
-        "variant_name": "BIZ E-Commerce",
-        "option_name": "BIZ E-Commerce",
-        "order": 13
-    },
-    {
         "family_name": "Newcomer Promo",
         "family_code": "6bc5a34d-7901-4bf9-8629-5bd7de28c89f",
         "is_enterprise": false,
